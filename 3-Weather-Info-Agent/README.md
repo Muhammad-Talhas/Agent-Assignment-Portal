@@ -21,10 +21,7 @@ This project implements a weather assistant agent using the **OpenAI Agent SDK**
 
 ---
 
-## 🛠️ Tool Function
-
-```python
-get_weather
-
 ## 📸 Screenshots
-![weather-info](screenshot/weather-info.PNG)
+
+### ➤ Inform Weather of a City
+![Weather](screenshot/multi-info.PNG)
