@@ -14,21 +14,7 @@ Build an AI agent that:
 
 ---
 
-## 🔧 Tools Used
+## 📸 Screenshots
 
-### 1. Math Tools
-
-```python
-@function_tool
-def add(a: int, b: int) -> int:
-    return a + b
-
-@function_tool
-def multiply(a: int, b: int) -> int:
-    return a * b
-
-
-### 2. Weather Tools
-@function_tool
-def get_weather(city: str) -> str:
-    # Returns current temperature and weather condition using WeatherAPI
+### ➤ Answering a Question
+![Answer](screenshot/multi-agent.PNG)
