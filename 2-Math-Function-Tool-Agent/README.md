@@ -33,6 +33,14 @@ Try these after running the agent:
 
 ---
 
+## 📸 Screenshots
+
+### ➤ Example 1: Addition
+![Addition Example](screenshots/chat-1.png)
+
+### ➤ Example 2: Multiplication
+![Multiplication Example](screenshots/chat-2.png)
+
 ## 🚀 How to Run
 
 Make sure you have a valid `.env` file with your `GEMINI_API_KEY`.
